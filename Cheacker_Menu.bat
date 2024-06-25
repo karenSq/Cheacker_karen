@@ -18,7 +18,7 @@ start "Checker_karen""C:\Program Files\Google\Chrome\Application\chrome.exe" "ht
 
 start "Checker_karen""C:\Program Files\Google\Chrome\Application\chrome.exe" "https://mail.google.com/mail/u/0/#inbox"
 
-start "Checker_karen" "C:\Users\%UserName%\Desktop\Cheaker_karen_v1.2\Cheaker_Menu.bat"
+start "Checker_karen" "C:\Users\%UserName%\Desktop\Cheaker_Menu.bat"
 
 exit)
 
@@ -27,7 +27,7 @@ start "Checker_karen" "C:\Users\%UserName%\Downloads"
 start "Checker_karen" "C:\Users\%UserName%\AppData\Local"
 start "Checker_karen" "C:\Users\%UserName%\Recent"
 
-start "Checker_karen" "C:\Users\%UserName%\Desktop\Cheaker_karen_v1.2\Cheaker_Menu.bat"
+start "Checker_karen" "C:\Users\%UserName%\Desktop\Cheaker_Menu.bat"
 
 exit)
 
@@ -35,7 +35,7 @@ if "%sym%"=="3" (start "Checker_karen" "C:\XONE"
 start "Checker_karen" "C:\SoundCloud"
 start "Cheacker_karen" "C:\MIDNIGHT"
 start "Cheacker_karen" "C:\INTERIUM"
-start "Checker_karen" "C:\Users\%UserName%\Desktop\Cheaker_karen_v1.2\Cheaker_Menu.bat"
+start "Checker_karen" "C:\Users\%UserName%\Desktop\Cheaker_Menu.bat"
 
 exit)
 
